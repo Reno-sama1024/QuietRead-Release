@@ -1,3 +1,4 @@
+[English Version](README_EN.md)
 # 靜讀 QuietRead
 
 一個極致的本地 TXT 閱讀器，與純 C 語言編寫的全局廣告攔截器（廣告殺手）。
