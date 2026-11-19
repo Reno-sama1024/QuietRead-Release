@@ -14,7 +14,7 @@ An ultimate minimalist local TXT reader, bundled with a global ad blocker (Ad Ki
 
 ## 📥 Download
 
- <a href="https://github.com/Reno-sama1024/QuietRead-Release/releases/download/QuietRead/QuietRead.apk">Click Here</a>
+ <a href="https://github.com/Reno-sama1024/QuietRead-Release/releases/download/QuietRead/QuietRead.apk">**Click Here**</a>
 
 ## ⚠️ Installation & Permissions (Crucial)
 
