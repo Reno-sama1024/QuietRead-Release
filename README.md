@@ -14,7 +14,7 @@
 
 ## 📥 下載方式
 
- <a href="https://github.com/Reno-sama1024/QuietRead-Release/releases/download/QuietRead/QuietRead.apk">請戳我</a> 
+ <a href="https://github.com/Reno-sama1024/QuietRead-Release/releases/download/QuietRead/QuietRead.apk"> ## 請戳我</a> 
 
 ## ⚠️ 安裝與權限說明（極度重要）
 
